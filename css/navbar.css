@@ -9,6 +9,12 @@
     margin-left: auto;
 }
 
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
 nav a {
     text-decoration: none;
     color: #333;
