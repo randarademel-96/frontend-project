@@ -1,0 +1,13 @@
+.hero-section {
+    min-height: 80vh;
+    background-image: url(../images/hero-image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+.hero-content{
+    padding-left: 60px;
+}
