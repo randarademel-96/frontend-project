@@ -8,5 +8,29 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.section-heading{
+    padding-right: 80px;
+    
+}
+
+.product img {
+    width: 100%;
+    max-width: 180px;
+    height: auto;
+}
+
+
+
+.product-section{
+    margin-top: 10px;
+}
+
+.plus-btn:hover {
+    transform: scale(1.2);
+    align-items: center;
+    justify-content: center;
+    
+    
+}
 
 
