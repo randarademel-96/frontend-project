@@ -22,7 +22,8 @@ body {
 
 
 .product-section{
-    margin-top: 10px;
+    padding: 25px 0 25px 0;
+    background-color: #F0F8FF;
 }
 
 .plus-btn:hover {
@@ -32,5 +33,19 @@ body {
     
     
 }
+
+.prod-card:hover{
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px black;
+}
+
+.why-choose-us{
+    background-color:#FFF8DC ;
+}
+
+.truck{
+    font-size: 30px;
+}
+
 
 
