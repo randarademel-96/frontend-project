@@ -47,5 +47,40 @@ body {
     font-size: 30px;
 }
 
+.we-help-you{
+    background-color:whitesmoke;
+}
+
+.image-wrapper {
+    height: 520px;
+    width: 100%;
+}
+
+.main-image {
+    width: 340px;
+    height: 420px;
+    object-fit: cover;
+}
+
+.small-image-top {
+    position: absolute;
+    top: 0;
+    right: 20px;
+
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.small-image-bottom {
+    position: absolute;
+    bottom: 0;
+    right: 20px;
+
+    width: 265px;
+    height: 320px;
+    object-fit: cover;
+}
+
 
 
